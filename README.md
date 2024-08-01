@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @quinkly-rea. again!
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning Colab.
 - I might be here for a limited time!
 
 <!---
